@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohweeseish.xn--vnajinihevljih-xzb.si/sitemap.xml
